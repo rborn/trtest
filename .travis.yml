@@ -1,4 +1,6 @@
  language: objective-c
  
  script:
- - uname -a
+	- npm -v  
+ 	- uname -a
+ 
